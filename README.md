@@ -4,7 +4,7 @@
 JS Test Driver code snippets for [Sublime Text 2](http://sublimetext.com) editor.
 
 ## Installation
-*1.*  Clone the repository into your packages folder.
+*1.*  Clone the repository into your packages folder (~/Library/Application Support/Sublime Text 2/Packages/ on MacOSX).
 
     git clone git@github.com:jwark/sublime-jstestdriver-snippets.git
 
