@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+new TestCase("${1:ns.ClassName}", \{
+
+	"test ${2:something}": function() \{
+		;
+	\},
+
+\});
+]]></content>
+	<tabTrigger>jstdtestsuite</tabTrigger>
+	<scope>source.js</scope>
+	<description>JSTestDriver test suite</description>
+</snippet>
