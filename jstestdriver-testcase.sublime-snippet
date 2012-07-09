@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-	"test ${1:something}": function() \{
-		;
-	\},
+"test ${1:something}": function() \{
+	;
+\},
 ]]></content>
 	<tabTrigger>jstdtestcase</tabTrigger>
 	<scope>source.js</scope>
